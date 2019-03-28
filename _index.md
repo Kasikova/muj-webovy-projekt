@@ -1,5 +1,5 @@
 
-Tyto stránky mají za úkol provést veřejnost srozumitelnou formou insolvenčním zákonem, tak aby čtenář pochopil základní principy insolvenčního řízení a dokázal se v nich orientovat. **
+Tyto stránky mají za úkol provést veřejnost srozumitelnou formou insolvenčním zákonem, tak aby čtenář pochopil základní principy insolvenčního řízení a dokázal se v nich orientovat.
 
 Insolvence je aktuální téma, které se dotýká téměř každého z nás. Můžeme být v roli dlužníka, věřitele nebo rodinného příslušníka, přičemž drtivá většina z nás ví o insolveci pouze to, že existuje. 
 
