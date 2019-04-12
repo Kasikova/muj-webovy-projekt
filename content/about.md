@@ -1,4 +1,4 @@
-Cílová skupina - výlučně fyzické osoby (jednotlivci nebo manželé), starší 18 ti let, občané ČR (nebo EU s trvalým pobytem) bez záznamu trestu majetkové povahy v trestním rejstříku , kteří mají více závazků, které nejsou schopni splácet. 
+*** MirkaCílová skupina - výlučně fyzické osoby (jednotlivci nebo manželé), starší 18 ti let, občané ČR (nebo EU s trvalým pobytem) bez záznamu trestu majetkové povahy v trestním rejstříku , kteří mají více závazků, které nejsou schopni splácet. 
 
 Název webu - www.pruvodceinsolvenci.cz
 
