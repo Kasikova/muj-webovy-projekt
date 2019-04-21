@@ -1,10 +1,15 @@
 ---
 title: Moodboard
----
-   
+date: 2018-04-21
+tags: 
+    - insolvence
+    - dluhy
 ---
 
-### Tvorba moodboardu pro náš web
+Tvorba moodboardu pro náš web
+
+<!--more-->
+
 V tomto článku bychom rády představily moodboard pro naši stránku.
 http://www.gomoodboard.com/boards/LNAOihh7/share
 Jelikož naše téma je nazváno Průvodce insolvencí a je koncipováno chronologicky, tak jak insolvenční řízení probíhá, do 10 kapitol
