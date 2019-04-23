@@ -1,4 +1,4 @@
----
+﻿---
 title: Moodboard
 menu: Moodboard
   main:
@@ -11,7 +11,7 @@ http://www.gomoodboard.com/boards/LNAOihh7/share
 Jelikož naše téma je nazváno Průvodce insolvencí a je koncipováno chronologicky, tak jak insolvenční řízení probíhá, do 10 kapitol
  - viz předposlední odstavec na stránkách
  (https://elegant-visvesvaraya-ecc193.netlify.com/about/?fbclid=IwAR1mUToo1ZNndU4zX6mhzwJm2HMHto-2mUitS7w7VIZGELj_svMHpUStSKg) 
- mám v koncepci stránek poměrně jasno. Po přihlášení uvidí klient úvodní stránku, kde bude uvedeno k členu stránky slouží,
+ mám v koncepci stránek poměrně jasno. Po přihlášení uvidí klient úvodní stránku, kde bude uvedeno, k čemu stránky slouží,
  na levé straně budou přepínače na jednotlivé kapitoly v následující struktuře: 
  1. vysvětlení pojmu úpadek  a další základní pojmy insolvenčního zákona 
  2. smysl oddlužení a rozdíl mezi oddlužením a konkurzem 
@@ -26,6 +26,10 @@ Jelikož naše téma je nazváno Průvodce insolvencí a je koncipováno chronol
  11. důležité odkazy. 
  Po kliknutí na odkaz se otevře konkrétní kapitola, kde bude pojem dopodrobna a pokud možno pro laika srozumitelně vysvětlený. 
  Každá kapitola bude doplněna obrázky a další grafikou. 
- Obrázky by měli být jak vtipné, pro odlehčení tématu, tak odborné, pro vysvětlení a pochopení problematiky. 
- Jelikož veškeré texty budou odbornou součástí jednotlivých kapitol, nepovažuji za nutné vkládat do moodboardu.
+ Obrázky by měly být jak vtipné, pro odlehčení tématu, tak odborné, pro vysvětlení a pochopení problematiky. 
+ Jelikož veškeré texty budou odbornou součástí jednotlivých kapitol, nepovažuji za nutné vkládat do moodboardu. 
 V něm uvádím pouze obrázky, z nichž některé bych ráda použila v jednotlivých kapitolách.
+
+Elfí náhled:
+Ježto nikdo z nás není profesionální právník, předpokládám, že naše stránka bude fungovat jako jakýsi rozcestník. Bude obsahovat nejdůležitější terminologické definice základních pojmů souvisejících s ústředním tématem, odkazy na dokumenty a služby, které mohou pomoci, a možná i varování před nejčastějšími chybnými kroky - kam nechodit, co nedělat a před čím se mít na pozoru.
+Jako taková bude stránka hodně textová, což usnadní situaci i ohledně autorských práv u ilustrací.
