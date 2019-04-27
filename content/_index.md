@@ -1,30 +1,16 @@
----
-title: Moodboard
----
-   
----
 
-### Tvorba moodboardu pro náš web
-V tomto článku bychom rády představily moodboard pro naši stránku.
-http://www.gomoodboard.com/boards/LNAOihh7/share
-Jelikož naše téma je nazváno Průvodce insolvencí a je koncipováno chronologicky, tak jak insolvenční řízení probíhá, do 10 kapitol
- - viz předposlední odstavec na stránkách
- (https://elegant-visvesvaraya-ecc193.netlify.com/about/?fbclid=IwAR1mUToo1ZNndU4zX6mhzwJm2HMHto-2mUitS7w7VIZGELj_svMHpUStSKg) 
- mám v koncepci stránek poměrně jasno. Po přihlášení uvidí klient úvodní stránku, kde bude uvedeno k členu stránky slouží,
- na levé straně budou přepínače na jednotlivé kapitoly v následující struktuře: 
- 1. vysvětlení pojmu úpadek  a další základní pojmy insolvenčního zákona 
- 2. smysl oddlužení a rozdíl mezi oddlužením a konkurzem 
- 3. fáze oddlužení obecně 
- 4. insolvenční návrh 
- 5. účastnící řízení 
- 6. povolení oddlužení 
- 7. přezkumné jednání 
- 8. schválení oddlužení 
- 9. úkony v průběhu oddlužení 
- 10. ukončení oddlužení 
- 11. důležité odkazy. 
- Po kliknutí na odkaz se otevře konkrétní kapitola, kde bude pojem dopodrobna a pokud možno pro laika srozumitelně vysvětlený. 
- Každá kapitola bude doplněna obrázky a další grafikou. 
- Obrázky by měli být jak vtipné, pro odlehčení tématu, tak odborné, pro vysvětlení a pochopení problematiky. 
- Jelikož veškeré texty budou odbornou součástí jednotlivých kapitol, nepovažuji za nutné vkládat do moodboardu.
-V něm uvádím pouze obrázky, z nichž některé bych ráda použila v jednotlivých kapitolách.
+Tyto stránky mají za úkol provést veřejnost srozumitelnou formou insolvenčním zákonem, tak aby čtenář pochopil základní principy insolvenčního řízení a dokázal se v nich orientovat.
+
+Insolvence je aktuální téma, které se dotýká téměř každého z nás. Můžeme být v roli dlužníka, věřitele nebo rodinného příslušníka, přičemž drtivá většina z nás ví o insolveci pouze to, že existuje. 
+
+Když pomineme různé typy insolvečních řízení týkajících se korporací, z pohledu běžného občana je fenoménem tzv. oddlužení. 
+
+Dle dat projektu Mapa exekucí České republiky zatěžují exekuce stále větší počet obyvatel. Za poslední rok vzrostl počet exekucí o 3,4 %. Celkem je vedeno 863 000 fyzických osob s exekucí. To představuje téměř desetinu Čechů. Spousta z nich dostává status doživotního dlužníka. 
+
+Většině z nich může insolvenční řízení pomoci řešit jejich situaci - málokdo z nic ví, že po splnění určitých okolností jim insolvenční řízení pomůže začít nový život. 
+
+https://insolvence.justice.cz/
+
+https://www.kn.cz/
+
+https://www.student.cz/novinky-a-sdeleni/pocet-exekuci-v-ceske-republice-stale-stoupa
