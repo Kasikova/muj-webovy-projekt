@@ -8,7 +8,6 @@ tags:
 ---
 ## Tvorba moodboardu pro náš web
 
-
 V tomto článku bychom rády představily moodboard pro naši stránku.
 http://www.gomoodboard.com/boards/LNAOihh7/share
 Jelikož naše téma je nazváno Průvodce insolvencí a je koncipováno chronologicky, tak jak insolvenční řízení probíhá, do 10 kapitol
@@ -16,17 +15,20 @@ Jelikož naše téma je nazváno Průvodce insolvencí a je koncipováno chronol
  (https://elegant-visvesvaraya-ecc193.netlify.com/about/?fbclid=IwAR1mUToo1ZNndU4zX6mhzwJm2HMHto-2mUitS7w7VIZGELj_svMHpUStSKg) 
  mám v koncepci stránek poměrně jasno. Po přihlášení uvidí klient úvodní stránku, kde bude uvedeno k členu stránky slouží,
  na levé straně budou přepínače na jednotlivé kapitoly v následující struktuře: 
- 1. vysvětlení pojmu úpadek  a další základní pojmy insolvenčního zákona 
- 2. smysl oddlužení a rozdíl mezi oddlužením a konkurzem 
- 3. fáze oddlužení obecně 
- 4. insolvenční návrh 
- 5. účastnící řízení 
- 6. povolení oddlužení 
- 7. přezkumné jednání 
- 8. schválení oddlužení 
- 9. úkony v průběhu oddlužení 
- 10. ukončení oddlužení 
- 11. důležité odkazy. 
+ <ol>
+ <li> vysvětlení pojmu úpadek  a další základní pojmy insolvenčního zákona </li>
+ <li> smysl oddlužení a rozdíl mezi oddlužením a konkurzem </li>
+ <li> fáze oddlužení obecně </li>
+ <li> insolvenční návrh </li>
+ <li> účastnící řízení </li>
+ <li> povolení oddlužení </li>
+ <li> přezkumné jednání </li>
+ <li> schválení oddlužení </li>
+ <li> úkony v průběhu oddlužení </li>
+ <li> ukončení oddlužení </li>
+ <li> důležité odkazy. </li>
+</ol>
+
  Po kliknutí na odkaz se otevře konkrétní kapitola, kde bude pojem dopodrobna a pokud možno pro laika srozumitelně vysvětlený. 
  Každá kapitola bude doplněna obrázky a další grafikou. 
  Obrázky by měli být jak vtipné, pro odlehčení tématu, tak odborné, pro vysvětlení a pochopení problematiky. 
