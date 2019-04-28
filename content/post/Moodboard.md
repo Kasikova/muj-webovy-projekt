@@ -1,12 +1,15 @@
-﻿Tvorba moodboardu pro náš web 
-V tomto článku bychom rády představily moodboard pro naši stránku.
-=======
-### Tvorba moodboardu pro náš web
- 
+﻿---
+title:  "Tvorba moodboard pro náš web" 
+date:   2019-04-28 
+tags: 
+    - KISK
+    - start
+    - hugo
+---
 
-<p>V tomto článku bychom rády představily moodboard pro naši stránku.
->>>>>>> elfi-vetev-01
-http://www.gomoodboard.com/boards/LNAOihh7/share
+Tvorba moodboardu pro náš web 
+
+<p>V tomto článku bychom rády představily moodboard pro naši stránku. http://www.gomoodboard.com/boards/LNAOihh7/share 
 Jelikož naše téma je nazváno Průvodce insolvencí a je koncipováno chronologicky, tak jak insolvenční řízení probíhá, do 10 kapitol
  - viz předposlední odstavec na stránkách
  (https://elegant-visvesvaraya-ecc193.netlify.com/about/?fbclid=IwAR1mUToo1ZNndU4zX6mhzwJm2HMHto-2mUitS7w7VIZGELj_svMHpUStSKg) 
