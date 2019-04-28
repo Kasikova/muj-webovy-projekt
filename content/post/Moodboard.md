@@ -1,21 +1,4 @@
-<<<<<<< HEAD
----
-title:  "Tvorba moodboardu pro náš web"
-date:   2019-04-15
-tags: 
-    - insolvence
-    - dluhy
-    - peníze
-=======
-﻿---
-title: "Moodboard"
-  main:
-    
->>>>>>> elfi-vetev-01
----
-## Tvorba moodboardu pro náš web
-
-<<<<<<< HEAD
+﻿Tvorba moodboardu pro náš web 
 V tomto článku bychom rády představily moodboard pro naši stránku.
 =======
 ### Tvorba moodboardu pro náš web
