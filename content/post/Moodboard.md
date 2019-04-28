@@ -41,4 +41,4 @@ Jako taková bude stránka hodně textová, což usnadní situaci i ohledně aut
 </p>
 http://www.gomoodboard.com/boards/O8fzEua1/share
 <br/>
-<img src="elfi_moodboard.jpg"/>
+<img src="http://www.gomoodboard.com/boards/O8fzEua1/share"/>
