@@ -40,6 +40,10 @@ nav li {
   margin-bottom: 1em;
 }
 
+nav a {
+  color: red;
+}
+
 nav .active {
   font-weight: bold;
 }
@@ -51,3 +55,4 @@ nav .active {
   border-color: #006600;
 
 }
+
