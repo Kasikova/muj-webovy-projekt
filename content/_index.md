@@ -1,3 +1,5 @@
+Vítejte na skvělých stránkách, které jsou nepostradatelné pro všechny studenty, co nemají za rodiče milionáře a
+ve snaze ufinancovat své studium upadli do dluhové pasti a natahují se po nich spáry vymahačské mafie.
 
 Tyto stránky mají za úkol provést veřejnost srozumitelnou formou insolvenčním zákonem, tak aby čtenář pochopil základní principy insolvenčního řízení a dokázal se v nich orientovat.
 
@@ -14,3 +16,4 @@ https://insolvence.justice.cz/
 https://www.kn.cz/
 
 https://www.student.cz/novinky-a-sdeleni/pocet-exekuci-v-ceske-republice-stale-stoupa
+
