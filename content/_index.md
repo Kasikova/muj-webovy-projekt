@@ -1,5 +1,5 @@
-Výtejte na zkvělých strankách, které jsou postaradatelné pro včechny studentyco namají za rodiče miliardáře.
-Ve snaze ufynancovat studijum upadly do druhové pasti.
+Vítejte na skvělých stránkách, které jsou nepostradatelné pro všechny studenty, co nemají za rodiče milionáře a
+ve snaze ufinancovat své studium upadli do dluhové pasti a natahují se po nich spáry vymahačské mafie.
 
 Tyto stránky mají za úkol provést veřejnost srozumitelnou formou insolvenčním zákonem, tak aby čtenář pochopil základní principy insolvenčního řízení a dokázal se v nich orientovat.
 
