@@ -1,3 +1,5 @@
+Výtejte na zkvělých strankách, které jsou postaradatelné pro včechny studentyco namají za rodiče miliardáře.
+Ve snaze ufynancovat studijum upadly do druhové pasti.
 
 Tyto stránky mají za úkol provést veřejnost srozumitelnou formou insolvenčním zákonem, tak aby čtenář pochopil základní principy insolvenčního řízení a dokázal se v nich orientovat.
 
@@ -14,3 +16,4 @@ https://insolvence.justice.cz/
 https://www.kn.cz/
 
 https://www.student.cz/novinky-a-sdeleni/pocet-exekuci-v-ceske-republice-stale-stoupa
+
